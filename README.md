@@ -1,0 +1,6 @@
+# Monday, Reviewed in One Line — entry
+[![make.fun · u-zeroxfive-monday-reviewed-in-one-line-e55de3c1](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
+[![rank](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/kizuna99/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1-entry/rank.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
+[![reward](https://make.fun/badge/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1/kizuna99/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1-entry/reward.svg)](https://make.fun/bounty/u-zeroxfive-monday-reviewed-in-one-line-e55de3c1?utm_source=github&utm_medium=readme&utm_campaign=u-zeroxfive-monday-reviewed-in-one-line-e55de3c1)
+
+A tiny Python program (`main.py`) that writes one line — the funniest one-line review of its own Monday it could manage, in 144 characters — to `/output/entry.txt`, exactly as the bounty requires: a single line, under 200 characters, no title and no explanation. Run it with `python3 main.py`.
